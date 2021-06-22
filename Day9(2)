@@ -1,0 +1,6 @@
+#looping program througth a list of numbers and+2 add every values elements in the list
+# intialize the values in thelist
+numbers=[6, 5,4,2,5]
+for i in range(len(numbers)):
+    #add +2 in every values in list and print values
+   print("the sum of numbers",numbers[i]+2) 
